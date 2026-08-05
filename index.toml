@@ -11,6 +11,11 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "73c8f00ddae69b929cfdc313b808ce547e610b8336dbe54660b62d258c5e3a01"
+metafile = true
+
+[[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "828d571a91296e2ee3be1ec509619ea01f6a61a03958461fbe543bd377daa194"
+metafile = true
+
+[[files]]
+file = "mods/auto-leveling.pw.toml"
+hash = "f4ec9cfa7b0e173c510f1524a241e4dd837ab3a2ec92a672ab3e05b4c343b13e"
 metafile = true
 
 [[files]]
@@ -53,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/coroutil.pw.toml"
 hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "47736af1584283072d721e4f2700929a0fabe67b36e2175fc48b0964db70ab8b"
 metafile = true
 
 [[files]]
@@ -176,11 +191,6 @@ hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
 metafile = true
 
 [[files]]
-file = "mods/multi-overworld.pw.toml"
-hash = "0a088fae4d0554d95aab976255d84bd337878b0e3ae1594c74d1dceb3c65c517"
-metafile = true
-
-[[files]]
 file = "mods/naturalist-delight.pw.toml"
 hash = "bbd70fa0fe2c703db9993808e4969fd58f00552d073c06958e1951d2168d6f4a"
 metafile = true
@@ -201,8 +211,8 @@ hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
-file = "mods/passive-skill-tree.pw.toml"
-hash = "2ce53a704e67995bb5e9fbd42e59004e47ffc6487e2867131500dafd355b6b3e"
+file = "mods/overworld-mirror.pw.toml"
+hash = "37d2506348f544f099982b706eedb0fe8aade4886cf45929cbc7118bdffa271a"
 metafile = true
 
 [[files]]
@@ -241,6 +251,11 @@ hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "08faa8239705d280e41d353888bf717906fe71b1d5b9278bac9f5cd87b07efb3"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
@@ -266,8 +281,8 @@ hash = "e262c76bef362bf50d673acf1dc48e4a31fce4d0e6f7dcca8dd610b06c12908f"
 metafile = true
 
 [[files]]
-file = "mods/waifing-passive-skill-tree.pw.toml"
-hash = "f550185471c04790af559fcc1a77d1fa340d9f0c3642e585c8ca09ac7b9ad370"
+file = "mods/u-team-core.pw.toml"
+hash = "8e30477baba55d418718ec4e603a6f7e928992a278c853d1a7be579f7e380e2c"
 metafile = true
 
 [[files]]
