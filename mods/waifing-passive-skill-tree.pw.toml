@@ -1,0 +1,13 @@
+name = "Waifing - Passive Skill Tree"
+filename = "Waifing - Passive Skill Tree.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "840f7dfb6bb4223dacabe44bba9f745e931d95e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6834070
+project-id = 1282028
