@@ -36,11 +36,6 @@ hash = "828d571a91296e2ee3be1ec509619ea01f6a61a03958461fbe543bd377daa194"
 metafile = true
 
 [[files]]
-file = "mods/azurelib.pw.toml"
-hash = "cb6b9706620f78114281e94a2bf081a2d281037bfdf7d12365fa54e90e5dffeb"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "ddff810b39bb8873325aa34230c2a174073ad9bbf002e04a66835735550a1b7b"
 metafile = true
@@ -48,11 +43,6 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
-metafile = true
-
-[[files]]
-file = "mods/cataclysm-spellbooks.pw.toml"
-hash = "79f4d674fc199e86c962035ccbe89c9d5ba8c2cc087908b60a0cb4e2c3aa90d2"
 metafile = true
 
 [[files]]

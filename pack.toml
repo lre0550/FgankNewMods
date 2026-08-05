@@ -1,12 +1,12 @@
 name = "FgankNewMods"
 author = "lre0550"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "04add3249debd87494402307f1862153932143843b16a13c6c7f3137261e2aa2"
+hash = "20e961a21a7ea6f1168f9cc806abc54718bef7262eb03fe8e5695b3a3796f0ed"
 
 [versions]
 forge = "47.4.10"
