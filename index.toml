@@ -11,11 +11,6 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
-file = "mods/apotheosis.pw.toml"
-hash = "c281ef574be46e4df3f7ed04b0a4b5f6d1b2a836b7d1d94c4a30be9c85d3adcb"
-metafile = true
-
-[[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
 metafile = true
@@ -53,11 +48,6 @@ metafile = true
 [[files]]
 file = "mods/constructs-casting.pw.toml"
 hash = "cd91472dc8e3741c0df8e97fb8be276824d7cf76107052bb7a35f93e5da8b19c"
-metafile = true
-
-[[files]]
-file = "mods/create.pw.toml"
-hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
 
 [[files]]
