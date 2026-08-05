@@ -1,0 +1,13 @@
+name = "Multi-Overworld"
+filename = "output.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "99cf5316d37d81297d64c35f0786932ac01f8242"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6563132
+project-id = 888959

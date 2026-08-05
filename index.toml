@@ -51,6 +51,11 @@ hash = "cd91472dc8e3741c0df8e97fb8be276824d7cf76107052bb7a35f93e5da8b19c"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "8d1ee700ac8573acd3c863aa26fa4a15977962d3c888775b60be2248b9e39c19"
 metafile = true
@@ -171,6 +176,11 @@ hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
 metafile = true
 
 [[files]]
+file = "mods/multi-overworld.pw.toml"
+hash = "0a088fae4d0554d95aab976255d84bd337878b0e3ae1594c74d1dceb3c65c517"
+metafile = true
+
+[[files]]
 file = "mods/naturalist-delight.pw.toml"
 hash = "bbd70fa0fe2c703db9993808e4969fd58f00552d073c06958e1951d2168d6f4a"
 metafile = true
@@ -258,4 +268,14 @@ metafile = true
 [[files]]
 file = "mods/waifing-passive-skill-tree.pw.toml"
 hash = "f550185471c04790af559fcc1a77d1fa340d9f0c3642e585c8ca09ac7b9ad370"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
+metafile = true
+
+[[files]]
+file = "mods/zetter.pw.toml"
+hash = "95b2e130e3ef2f733ddca1985c7553126792486536b93dba7388082e544f5778"
 metafile = true
