@@ -11,6 +11,11 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "c281ef574be46e4df3f7ed04b0a4b5f6d1b2a836b7d1d94c4a30be9c85d3adcb"
+metafile = true
+
+[[files]]
 file = "mods/apothic-attributes.pw.toml"
 hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
 metafile = true
@@ -31,13 +36,38 @@ hash = "828d571a91296e2ee3be1ec509619ea01f6a61a03958461fbe543bd377daa194"
 metafile = true
 
 [[files]]
+file = "mods/azurelib.pw.toml"
+hash = "cb6b9706620f78114281e94a2bf081a2d281037bfdf7d12365fa54e90e5dffeb"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "ddff810b39bb8873325aa34230c2a174073ad9bbf002e04a66835735550a1b7b"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
 
 [[files]]
+file = "mods/cataclysm-spellbooks.pw.toml"
+hash = "79f4d674fc199e86c962035ccbe89c9d5ba8c2cc087908b60a0cb4e2c3aa90d2"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "5a4b03567f23fe0aac7806bd7cc9734138bf5fc098e98c1bb552d5b288bef258"
+metafile = true
+
+[[files]]
+file = "mods/constructs-casting.pw.toml"
+hash = "cd91472dc8e3741c0df8e97fb8be276824d7cf76107052bb7a35f93e5da8b19c"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
 metafile = true
 
 [[files]]
@@ -48,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "3e8187acf1eb48228597648ee3bee178123bef8ece1b3dac80144467747b647b"
 metafile = true
 
 [[files]]
@@ -136,8 +171,18 @@ hash = "d41cc823d05623576125dcd40325a6b433bb99ced0d9452dde962e67ed33bb27"
 metafile = true
 
 [[files]]
+file = "mods/lendercataclysm.pw.toml"
+hash = "fbf967b492d575d65f066941652400dc32b998a16ac477a4b8f0efc2f681296a"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "ee79f551b7aede4b923fc6df137c4ebbb1dd21eb80a3aaba6da8be93ac5010e7"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "300eb043e53e956e58c9ff56d261d2473b473a387eef3dcfec44324c8d330a39"
 metafile = true
 
 [[files]]
@@ -213,6 +258,21 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "74a64acbd2275c16e47fb17e74bcd431779674cefa1f54f67f15b4d9b955aec7"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-reforged.pw.toml"
+hash = "98805fbd16e1e03ac6e6224c20d84a9e4d2f60746d69771dd4754b0abd7f1958"
+metafile = true
+
+[[files]]
+file = "mods/twilight-construct.pw.toml"
+hash = "4e110c958d0a02255c687f3802955002bc2e07d2a1a76ca4309f0cc4a3f69a02"
+metafile = true
+
+[[files]]
+file = "mods/twilights-flavors-delight.pw.toml"
+hash = "e262c76bef362bf50d673acf1dc48e4a31fce4d0e6f7dcca8dd610b06c12908f"
 metafile = true
 
 [[files]]
