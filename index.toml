@@ -13,6 +13,10 @@ file = "config/defaultoptions/options.txt"
 hash = "f84e621efdff10820f22a37c6ab8ccdba6082448260eb2623eb90c511c33c3db"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "e1d2d3c0706f6dec49460227fe6a963483cf97f96b04dff8384b8711d5400863"
+
+[[files]]
 file = "mods/alexs-mobs-delight.pw.toml"
 hash = "0ba27b5183235a88caa3f9d3a650ecc3f8e3ca026fe8229e08d75ca29d59bc7f"
 metafile = true
@@ -20,11 +24,6 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
-metafile = true
-
-[[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "73c8f00ddae69b929cfdc313b808ce547e610b8336dbe54660b62d258c5e3a01"
 metafile = true
 
 [[files]]
@@ -45,11 +44,6 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "828d571a91296e2ee3be1ec509619ea01f6a61a03958461fbe543bd377daa194"
-metafile = true
-
-[[files]]
-file = "mods/auto-leveling.pw.toml"
-hash = "f4ec9cfa7b0e173c510f1524a241e4dd837ab3a2ec92a672ab3e05b4c343b13e"
 metafile = true
 
 [[files]]
@@ -203,6 +197,11 @@ hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
 metafile = true
 
 [[files]]
+file = "mods/multi-overworld.pw.toml"
+hash = "0a088fae4d0554d95aab976255d84bd337878b0e3ae1594c74d1dceb3c65c517"
+metafile = true
+
+[[files]]
 file = "mods/naturalist-delight.pw.toml"
 hash = "bbd70fa0fe2c703db9993808e4969fd58f00552d073c06958e1951d2168d6f4a"
 metafile = true
@@ -221,6 +220,10 @@ metafile = true
 file = "mods/oculus.pw.toml"
 hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
+
+[[files]]
+file = "mods/output.jar"
+hash = "e0914832a52a4a229597119940b49f4a65b0d534516c88f9144750894a68c4b0"
 
 [[files]]
 file = "mods/overworld-mirror.pw.toml"
@@ -306,10 +309,6 @@ metafile = true
 file = "mods/zetter.pw.toml"
 hash = "95b2e130e3ef2f733ddca1985c7553126792486536b93dba7388082e544f5778"
 metafile = true
-
-[[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
 
 [[files]]
 file = "resourcepacks/avpbr-retextured.pw.toml"
