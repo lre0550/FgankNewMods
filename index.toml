@@ -5,8 +5,12 @@ file = "config/cataclysm-common.toml"
 hash = "d32751fc4d139014f498cecc188d889953e504195a9e10f4fe65df55950e8308"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "71bdc8546cece0fc3d91a446d3cef1ff53986401f6e77e49d9cfa99ab832a0e9"
+
+[[files]]
 file = "config/defaultoptions/options.txt"
-hash = "7c5d3167ee269506d4fb591f7e001b5a32641b1b4f671d0166dc96f1f006539f"
+hash = "f84e621efdff10820f22a37c6ab8ccdba6082448260eb2623eb90c511c33c3db"
 
 [[files]]
 file = "mods/alexs-mobs-delight.pw.toml"
@@ -150,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2445db8626282d85c5b89045aaa94b495ca888e9dd6c54775500cd59d1be478f"
+hash = "412a69cdd31426264572edc1aa266632f78f7bbdb209c8be6cf1821f5f1cda58"
 metafile = true
 
 [[files]]
@@ -301,4 +305,51 @@ metafile = true
 [[files]]
 file = "mods/zetter.pw.toml"
 hash = "95b2e130e3ef2f733ddca1985c7553126792486536b93dba7388082e544f5778"
+metafile = true
+
+[[files]]
+file = "resourcepacks/avpbr-retextured.pw.toml"
+hash = "99e031bfbab164d2069fc101cfb20acf52892cd26560c5975e515258101a6c30"
+metafile = true
+
+[[files]]
+file = "resourcepacks/l2artifacts-3.0.5_mine-tech_20260405.zip"
+hash = "91d78428adc0c835ea0f247f9ca76a16e90ccec0d985133631376414457c67c9"
+
+[[files]]
+file = "shaderpacks/BSL.zip"
+hash = "c98cd9ce50a173bd7e280551747c8b7283b3227d3cb8d86c8084ff23ac3eac06"
+
+[[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.zip"
+hash = "1e759f1311d704321a14a30dd59b8e6e975aa721254618661ca2b6bbe3fbd9f3"
+
+[[files]]
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/kappa-shader.pw.toml"
+hash = "a01d824c592eebca3df5b5af6aed07839eb8b544de20a2e4f276cb0622b203c9"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "0a3f01f56afd065dc65dffb073b4fc5f9ae031aaef08d95d9df92e0093ac8504"
+metafile = true
+
+[[files]]
+file = "solas-shader.pw.toml"
+hash = "c49076b6a9c86b2de278d4cd373a312e6e4ead76d93dc4b8df6e24dfca43a529"
 metafile = true
