@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cataclysm-common.toml"
+hash = "d32751fc4d139014f498cecc188d889953e504195a9e10f4fe65df55950e8308"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "7c5d3167ee269506d4fb591f7e001b5a32641b1b4f671d0166dc96f1f006539f"
+
+[[files]]
 file = "mods/alexs-mobs-delight.pw.toml"
 hash = "0ba27b5183235a88caa3f9d3a650ecc3f8e3ca026fe8229e08d75ca29d59bc7f"
 metafile = true
