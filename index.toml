@@ -308,6 +308,10 @@ hash = "95b2e130e3ef2f733ddca1985c7553126792486536b93dba7388082e544f5778"
 metafile = true
 
 [[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
 file = "resourcepacks/avpbr-retextured.pw.toml"
 hash = "99e031bfbab164d2069fc101cfb20acf52892cd26560c5975e515258101a6c30"
 metafile = true
@@ -350,6 +354,6 @@ hash = "0a3f01f56afd065dc65dffb073b4fc5f9ae031aaef08d95d9df92e0093ac8504"
 metafile = true
 
 [[files]]
-file = "solas-shader.pw.toml"
+file = "shaderpacks/solas-shader.pw.toml"
 hash = "c49076b6a9c86b2de278d4cd373a312e6e4ead76d93dc4b8df6e24dfca43a529"
 metafile = true
