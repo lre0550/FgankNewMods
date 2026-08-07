@@ -57,6 +57,11 @@ hash = "a536d044622c696e0b8f9645b950fff6027db1002d656bed583f37bc1d36bafa"
 metafile = true
 
 [[files]]
+file = "mods/bossesrise.pw.toml"
+hash = "b66345a42cf78fc591a935a17907d135370348a015125fd06de6aba168240362"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
@@ -202,6 +207,11 @@ hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "230b5d280d6d121701c8f275ae47dca348e806738d03767aa8e450e7267ef908"
+metafile = true
+
+[[files]]
 file = "mods/multi-overworld.pw.toml"
 hash = "0a088fae4d0554d95aab976255d84bd337878b0e3ae1594c74d1dceb3c65c517"
 metafile = true
@@ -258,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "2720aee58db6299559f89ea9dc8b1d573b8324f2b4af1e594c5239607585487b"
 metafile = true
 
 [[files]]
