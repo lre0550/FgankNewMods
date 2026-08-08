@@ -367,7 +367,7 @@
 			dps_limit_time = 20
 			#Range Cap
 			#Range: 1.0 ~ 1000000.0
-			range_cap = 12.0
+			range_cap = 100000.0
 
 		[mobs.ender_guardian.nature_heal_config]
 			#Nature Heal
@@ -407,7 +407,7 @@
 			dps_limit_time = 20
 			#Range Cap
 			#Range: 1.0 ~ 1000000.0
-			range_cap = 8.0
+			range_cap = 100000.0
 
 		[mobs.ender_golem.nature_heal_config]
 			#Nature Heal
@@ -463,7 +463,7 @@
 			dps_limit_time = 20
 			#Range Cap
 			#Range: 1.0 ~ 1000000.0
-			range_cap = 18.0
+			range_cap = 100000.0
 
 		[mobs.netherite_monstrosity.nature_heal_config]
 			#Nature Heal
@@ -515,7 +515,7 @@
 			dps_limit_time = 20
 			#Range Cap
 			#Range: 1.0 ~ 1000000.0
-			range_cap = 15.0
+			range_cap = 100000.0
 
 		[mobs.ignis.nature_heal_config]
 			#Nature Heal
@@ -579,13 +579,13 @@
 			damage_cap = 100000
 			#Dps Cap
 			#Range: 1.0 ~ 1000000.0
-			dps_cap = 1100000
+			dps_cap = 1000000.0
 			#DPS Limit Time
 			#Range: 1 ~ 100
 			dps_limit_time = 20
 			#Range Cap
 			#Range: 1.0 ~ 1000000.0
-			range_cap = 35.0
+			range_cap = 100000.0
 
 		[mobs.harbinger.nature_heal_config]
 			#Nature Heal
@@ -692,7 +692,7 @@
 			dps_limit_time = 20
 			#Range Cap
 			#Range: 1.0 ~ 1000000.0
-			range_cap = 38.0
+			range_cap = 100000.0
 
 		[mobs.leviathan.nature_heal_config]
 			#Nature Heal
@@ -746,7 +746,7 @@
 			dps_limit_time = 20
 			#Range Cap
 			#Range: 1.0 ~ 1000000.0
-			range_cap = 14.0
+			range_cap = 100000.0
 
 		[mobs.ancient_remnant.nature_heal_config]
 			#Nature Heal
@@ -849,7 +849,7 @@
 			dps_limit_time = 20
 			#Range Cap
 			#Range: 1.0 ~ 1000000.0
-			range_cap = 14.0
+			range_cap = 100000.0
 
 		[mobs.maledictus.nature_heal_config]
 			#Nature Heal
@@ -926,7 +926,7 @@
 			dps_limit_time = 20
 			#Range Cap
 			#Range: 1.0 ~ 1000000.0
-			range_cap = 12.0
+			range_cap = 100000.0
 
 		[mobs.scylla.respawner_config]
 			#Respawner

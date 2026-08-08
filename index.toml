@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/cataclysm-common.toml"
-hash = "d32751fc4d139014f498cecc188d889953e504195a9e10f4fe65df55950e8308"
+hash = "f66480c1dbe127d79e24436ee9764e6fbdfe4102c4c7132738b5461e945da74c"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -15,6 +15,22 @@ hash = "f84e621efdff10820f22a37c6ab8ccdba6082448260eb2623eb90c511c33c3db"
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "e1d2d3c0706f6dec49460227fe6a963483cf97f96b04dff8384b8711d5400863"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/global_config.json"
+hash = "7a8fd5e37e183cccd59a72a4af0b9e1fe1b4d930cd034b2f11da7307a8741580"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/echoing_strikes.json"
+hash = "0f0d3f9c771fc275af2ebda778242172317c9a8483a7bebdb4b97200f6a1ac35"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
+hash = "fff63e25cd2a6e91e5a1c85c3f8bf2848e4d26bb3573f2de23cfd630bfe5bd2c"
+
+[[files]]
+file = "config/irons_spellbooks_tweaks-server.toml"
+hash = "c555b9fe958014f6ee681e3626d63312c15619dd1dff114deef6117ec17be777"
 
 [[files]]
 file = "mods/alexs-mobs-delight.pw.toml"
@@ -150,6 +166,10 @@ metafile = true
 file = "mods/irons-spells-n-spellbooks.pw.toml"
 hash = "4f89e36cf31ce139ab798c6ae457fb59e6c5ecbe40632ec95450cd2c43604c84"
 metafile = true
+
+[[files]]
+file = "mods/irons_spellbooks_tweaks-1.5.0.jar"
+hash = "521fcf34c55b5a1231a2ef5d1cd5f938fb8060d90d4336dd74ab91597027d8ce"
 
 [[files]]
 file = "mods/jade.pw.toml"
