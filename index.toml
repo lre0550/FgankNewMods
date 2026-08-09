@@ -113,6 +113,11 @@ hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
 metafile = true
 
 [[files]]
+file = "mods/curious-lanterns.pw.toml"
+hash = "bb3ffb693eca3b0488e44eb6682dcc7b0270259a1f3a8213016fa9b222b6aec6"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "3e8187acf1eb48228597648ee3bee178123bef8ece1b3dac80144467747b647b"
 metafile = true
@@ -130,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "fbad2488da791994cbb4a0541e2dd22c536dbe6ca8f7edfdd9af12120e283fd2"
+metafile = true
+
+[[files]]
+file = "mods/falling-tree.pw.toml"
+hash = "c403c22a6334812040538866bc4851f28358c1d8f8b44f029f4c1c82f94ca5e1"
 metafile = true
 
 [[files]]
@@ -283,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps-forge.pw.toml"
 hash = "fc6fbe4edaef15637092d30600743dec1bc9bf6055f71a5ff026df108fa2b532"
+metafile = true
+
+[[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "b613f3c2e55bdf5562585e98b03b1513ae26a003b32a19cd2fce076e293d7652"
 metafile = true
 
 [[files]]
