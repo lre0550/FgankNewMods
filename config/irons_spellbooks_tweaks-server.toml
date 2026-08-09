@@ -20,7 +20,7 @@
 [spells]
 	#Multiplier applied to every player's SPELL_POWER attribute. 1.0 leaves spell power unchanged. Stacks multiplicatively with gear and other modifiers.
 	#Range: 0.0 ~ 10.0
-	spellPowerMultiplier = 1.65
+	spellPowerMultiplier = 1.2
 	#Multiplier applied to the duration of buff and debuff effects from Iron's Spellbooks spells. Does not affect vanilla potions, food effects, beacon effects, or effects from other mods. 1.0 leaves durations unchanged.
 	#Range: 0.0 ~ 10.0
 	buffDurationMultiplier = 1.0
