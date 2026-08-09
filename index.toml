@@ -22,7 +22,7 @@ hash = "7a8fd5e37e183cccd59a72a4af0b9e1fe1b4d930cd034b2f11da7307a8741580"
 
 [[files]]
 file = "config/irons_spellbooks_spell_config/irons_spellbooks/echoing_strikes.json"
-hash = "0f0d3f9c771fc275af2ebda778242172317c9a8483a7bebdb4b97200f6a1ac35"
+hash = "fe86f61b580db22d65c5273ad8d25491c8c8bde6ae51e7ef6143c6176afc4682"
 
 [[files]]
 file = "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
@@ -30,7 +30,7 @@ hash = "fff63e25cd2a6e91e5a1c85c3f8bf2848e4d26bb3573f2de23cfd630bfe5bd2c"
 
 [[files]]
 file = "config/irons_spellbooks_tweaks-server.toml"
-hash = "c555b9fe958014f6ee681e3626d63312c15619dd1dff114deef6117ec17be777"
+hash = "9ff807a2839950d0769f2c33ca5e427723db287a5ece7d021c99d8c6c853dd4a"
 
 [[files]]
 file = "mods/alexs-mobs-delight.pw.toml"
@@ -55,6 +55,11 @@ metafile = true
 [[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "04aae524d364de0ec8ac66db6eaff094b9c9b9d69e5de89f11acb2a00ce35261"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
@@ -138,11 +143,6 @@ hash = "fbad2488da791994cbb4a0541e2dd22c536dbe6ca8f7edfdd9af12120e283fd2"
 metafile = true
 
 [[files]]
-file = "mods/falling-tree.pw.toml"
-hash = "c403c22a6334812040538866bc4851f28358c1d8f8b44f029f4c1c82f94ca5e1"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
 metafile = true
@@ -150,6 +150,16 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "efa75ee4aae90dea11316b6e61aecaf9433eeb3d0821f78b4eca41acbbd73e8f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "95b3a27eadc2854462de996ddce5ff2468771e13ac97c46ed96d41a6edaa056e"
 metafile = true
 
 [[files]]
