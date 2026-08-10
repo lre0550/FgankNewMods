@@ -83,6 +83,11 @@ hash = "b66345a42cf78fc591a935a17907d135370348a015125fd06de6aba168240362"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "dc45e2a3431d818f9bb2b7217a62e62ec8f455ca37b9f4f35947d2c442bad42b"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
