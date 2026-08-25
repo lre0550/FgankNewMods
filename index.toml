@@ -356,11 +356,6 @@ hash = "2720aee58db6299559f89ea9dc8b1d573b8324f2b4af1e594c5239607585487b"
 metafile = true
 
 [[files]]
-file = "mods/shelf-backport.pw.toml"
-hash = "a2c6ed7efa9a07a422949f9d8bad6ef17bb2204f82d8e7bcc1f3195dc2a54478"
-metafile = true
-
-[[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "5240c62752415b5d66d4beffec4fe98c253eba8ebcbb2a5c1097fc3ad3de0b00"
 metafile = true
