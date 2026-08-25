@@ -98,6 +98,11 @@ hash = "5a4b03567f23fe0aac7806bd7cc9734138bf5fc098e98c1bb552d5b288bef258"
 metafile = true
 
 [[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "26cfffc0a877575da0a92aa6481b8afd2c9a847731c0f80fe9f8fa014dac87ba"
+metafile = true
+
+[[files]]
 file = "mods/constructs-casting.pw.toml"
 hash = "cd91472dc8e3741c0df8e97fb8be276824d7cf76107052bb7a35f93e5da8b19c"
 metafile = true
@@ -110,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "47736af1584283072d721e4f2700929a0fabe67b36e2175fc48b0964db70ab8b"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "7636cefa918d5180c16e17708c9cd9c22c7b0c0b70b88bf0423d4c737895f1b1"
 metafile = true
 
 [[files]]
@@ -130,6 +140,16 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "3e8187acf1eb48228597648ee3bee178123bef8ece1b3dac80144467747b647b"
+metafile = true
+
+[[files]]
+file = "mods/deltaboxlib.pw.toml"
+hash = "ad59bde8d2371eae2a5f98741da8d1018496426147d63a7f5db028d3ccb45212"
+metafile = true
+
+[[files]]
+file = "mods/display-delight.pw.toml"
+hash = "fee194ac0436ddcb1199929daeb0eab31cf0802e60469eeac3218a6e26a5a065"
 metafile = true
 
 [[files]]
@@ -165,6 +185,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "95b3a27eadc2854462de996ddce5ff2468771e13ac97c46ed96d41a6edaa056e"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "6499131eb811f49b5cf2523463805272f422b3d7fb6e2189264fb18d2cd25754"
 metafile = true
 
 [[files]]
@@ -291,6 +316,11 @@ hash = "37d2506348f544f099982b706eedb0fe8aade4886cf45929cbc7118bdffa271a"
 metafile = true
 
 [[files]]
+file = "mods/pale-garden-backport.pw.toml"
+hash = "400c8ff4f8d3b1fd45a35be068018a7cc8801df4ec1001fb6f03ec58be1d18f2"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
 metafile = true
@@ -341,6 +371,16 @@ hash = "08faa8239705d280e41d353888bf717906fe71b1d5b9278bac9f5cd87b07efb3"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "664b98ebed2d34ec58c2700228fd45a923857d0675753290739e1d95f5e69a51"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
@@ -373,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
 metafile = true
 
 [[files]]
