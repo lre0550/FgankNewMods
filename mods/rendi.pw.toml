@@ -1,0 +1,13 @@
+name = "ReNDI"
+filename = "ReNDI-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1470f328fa73f5f238cb0e7bfd95f728ade5808"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8795127
+project-id = 1060231

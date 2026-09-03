@@ -1,0 +1,13 @@
+name = "Per-Dimension Game Rules"
+filename = "PerDimensionGameRules-1.20.1-Forge-3.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fde2daaf5cc7699c1abbcf49777d189e710afdef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7122474
+project-id = 828106
