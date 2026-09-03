@@ -1,0 +1,67 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "54F81080A540F968"
+	group: ""
+	id: "54F81080A540F968"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "671DDC3860E4A2AA"
+			tasks: [{
+				advancement: "endgame:quests/tier2/ancient_guardian"
+				criterion: ""
+				id: "1B061076FEDBCA0E"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "509EEF354EA9B74F"
+			tasks: [{
+				advancement: "endgame:quests/tier2/cloud_golem"
+				criterion: ""
+				id: "62288F937F603BC1"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			id: "3F8D65CC7475C678"
+			tasks: [{
+				advancement: "endgame:quests/tier2/fire_boss"
+				criterion: ""
+				id: "358323A6CE4130AF"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			id: "471B83F6F7CE297A"
+			tasks: [{
+				advancement: "endgame:quests/tier2/posessed_paladin"
+				criterion: ""
+				id: "703722A5D0A9C02F"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			id: "7078CE15EC5AE2DB"
+			tasks: [{
+				advancement: "endgame:quests/tier2/the_obliterator"
+				criterion: ""
+				id: "1301C31ADA40335C"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+	]
+	title: "第二等級"
+}

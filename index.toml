@@ -13,6 +13,78 @@ file = "config/defaultoptions/options.txt"
 hash = "f84e621efdff10820f22a37c6ab8ccdba6082448260eb2623eb90c511c33c3db"
 
 [[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "e57d8311aec9f524911ed1313cabf138bb7fa5a2d3ba985a00a2a267ff35ef78"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/24DB18BBB7E5CD91.snbt"
+hash = "06936bb5071ab91099595c3f6d1fd7aac9bc1cc4f577fbf1aa626ffdce325937"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/3B48E96AC9349502.snbt"
+hash = "e81d4ffd6e81dff42bfaa9dbb0008ba109769a2a7178ab6efeb357789a541994"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/54F81080A540F968.snbt"
+hash = "e8c9c65079c4e4b617ea443d71ca3768bc9d315cbd14f6a74f9435f399015c8c"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "0fef376c367cb165e7b886c03ada2a3d32abee8abce89b7bf351edd0d6e196aa"
+
+[[files]]
+file = "config/incontrol/areas.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/breakevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/effects.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/events.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/experience.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/leftclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/loot.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/phases.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/placeevents.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/rightclicks.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/spawn.json"
+hash = "d96e870262b60bab4d89e72593aac7e2ff84340fe531da0b70bbdab8f9ffd979"
+
+[[files]]
+file = "config/incontrol/spawner.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
+file = "config/incontrol/summonaid.json"
+hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "e1d2d3c0706f6dec49460227fe6a963483cf97f96b04dff8384b8711d5400863"
 
@@ -21,16 +93,260 @@ file = "config/irons_spellbooks_spell_config/global_config.json"
 hash = "7a8fd5e37e183cccd59a72a4af0b9e1fe1b4d930cd034b2f11da7307a8741580"
 
 [[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/acid_orb.json"
+hash = "c6c247e9cca9c38ed323739e205ad0815ba9fa7739e6d9b5f9f14e19d2933e43"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/acupuncture.json"
+hash = "3d4e96c7cfc2d3139417ef4ffad85c93634aa3f043d1583b07a8beff66145286"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/arrow_volley.json"
+hash = "706253ce89c8f7d3dc2bc3ae051eebf235cf5903316486321ab262e00f754b5c"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/ascension.json"
+hash = "fcbc7ae6340d3416c4e0545c413ece96f4991a01e6a73289e1ad8b594bd3035b"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/blaze_storm.json"
+hash = "a62d3ee0e720b7b59437a7202b6588db57b24e2727817527466ff474f632c4cd"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/blight.json"
+hash = "f6124decde710cda9aee2cf0a5cd89a20a94189e459c944d23ab82dc7f22cfb3"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/blizzard.json"
+hash = "ff40fce9c9391cad44a584115f7f22ab0a7796bbca1b25ce27462995abc37fef"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/blood_needles.json"
+hash = "cd1acd8462543d27c8032707c2065fc21bab1671b25ba279a55eaac469d82eb3"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/blood_slash.json"
+hash = "001d52c203afbb2be58a9337e3e3cffff8f7c22fff94efadb02a8c3793db34ae"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/burning_dash.json"
+hash = "ab39aa228a1fbb9a42333b90cadf1a2e129f8e30bf13de203427eac77636e60f"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/chain_creeper.json"
+hash = "2f2da7975d860e5285689127c3ba852faed4ac63dcd78c82e7a32a4e02713436"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/chain_lightning.json"
+hash = "9927d7d4c1a2ed4e135b62d4aab3dec353c59839f2aca1cab6a7a887d1047657"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/charge.json"
+hash = "b1b5fe1617e75c40cef10bba0b8540c7acc0a7bc96ff1c5457fac6e9e75da95e"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/cone_of_cold.json"
+hash = "994c6c986c6be4660f6f18164de019d7ee88160f62ff3529df13ea7f4216fbdf"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/devour.json"
+hash = "9eecdd68695736d6a430127a05001150fe01acd8dddfd9b2535fd7e7b0bd97bb"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/divine_smite.json"
+hash = "aaf9ddb00989f922080e117d475852c7825c6bde382350dd8f03ce453aad7def"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/dragon_breath.json"
+hash = "5d0ff57801d35f4b5664b4d7e1d7507594d16deb79a8203d3b269b5561391d96"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/earthquake.json"
+hash = "1cc7260e7ab3ca3bdaa0ed2f6c7980d2916ef219d2d514f7d18d9321c51ed7dd"
+
+[[files]]
 file = "config/irons_spellbooks_spell_config/irons_spellbooks/echoing_strikes.json"
 hash = "fe86f61b580db22d65c5273ad8d25491c8c8bde6ae51e7ef6143c6176afc4682"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/electrocute.json"
+hash = "99630e76c171b2cd1cdf9bc00bad537d3e8ae760e04171d86e502079d761eef2"
 
 [[files]]
 file = "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
 hash = "fff63e25cd2a6e91e5a1c85c3f8bf2848e4d26bb3573f2de23cfd630bfe5bd2c"
 
 [[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/fang_strike.json"
+hash = "147b0be5b416a5abbfe6d74e88ac7869d8abd05065a1f8c5f0b396f263aa8013"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/fang_swirl.json"
+hash = "feb99aa9f9851630537f4819780605a600bf29dac0d3853a6235148647037049"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/fang_ward.json"
+hash = "2a33c2b21e17d7ea7bfc98574f8b1efd653efe7a2c2bc7826a074bca37b552bc"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/fire_arrow.json"
+hash = "2702b6bf1efc9ef19f01b64cda803ed0ee6add9a8260e1f8b91d1de4d40a5ec9"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/fire_breath.json"
+hash = "5d0ff57801d35f4b5664b4d7e1d7507594d16deb79a8203d3b269b5561391d96"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/fireball.json"
+hash = "482f398aca542fda110e1374c316c28e45b4af4cbaedcb8fdaec626055536f03"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/firebolt.json"
+hash = "e6c5a2199949bdeafae2db3405e469bfae2b309d5a64b3a67350c499904e227b"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/firefly_swarm.json"
+hash = "9a151250df9557ddc33a6464377e0c786845f4c88134cddf90a5b69c0d2a4062"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/flaming_barrage.json"
+hash = "a3291adaa7313bbdda98c2f370eb725ee57ccf6f9900ed179bb266d08a69d109"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/flaming_strike.json"
+hash = "4ea56a782d6674e3db1a300b4ae2b84eb8fb22d464a68414c5a6ad61c92252ad"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/guiding_bolt.json"
+hash = "fa2aa28828241b6557d2dc996d12b90467b100ceaadeeb19fe89e7983a983fdb"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/heat_surge.json"
+hash = "0fee7878045f488b4901131f1e52305e10f72098a6c64506f89e2f9ebcb92647"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/ice_block.json"
+hash = "cdf6b68af4fc7522c54d37f3b547938829284c2349cb34bacb811c62e1d9e276"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/ice_spikes.json"
+hash = "e252210bd22e5513c752a3d944e4236aa7816baac97f162e41a7f4faa142ce3a"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/icicle.json"
+hash = "98d56e11d8d59e82de504857d3365d85f47c0cf941a99a54489a6f9e8bd2a775"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/lightning_bolt.json"
+hash = "d301a0a61d0df398288e67b4a24bbb68ef276bff4c47e764e79c538de95d6311"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/lightning_lance.json"
+hash = "b3a36ed8469c9c74737a67732a19388a94d7e6072a2964850139fc036cc17e0c"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/lob_creeper.json"
+hash = "373882e931eeb20e04e65e356be81565fad93025c804abf0a85f6cf01440bb5a"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/magic_arrow.json"
+hash = "a0a1fde18c4a5e33c37d50729eb4d810f1785cbc7c072fc6036ece9852529532"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/magic_missile.json"
+hash = "706253ce89c8f7d3dc2bc3ae051eebf235cf5903316486321ab262e00f754b5c"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/magma_bomb.json"
+hash = "3c67948e345919d07881089b0df6193716f1b17dde109b674ce394bc52a40765"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/poison_arrow.json"
+hash = "3c67948e345919d07881089b0df6193716f1b17dde109b674ce394bc52a40765"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/poison_breath.json"
+hash = "5d0ff57801d35f4b5664b4d7e1d7507594d16deb79a8203d3b269b5561391d96"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/poison_splash.json"
+hash = "449df9fa5e20ab2b325c4c5c9d1344bc5dd98f282fa4a96eef28aa2e41086c89"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/raise_hell.json"
+hash = "8f04728da8fee622f302a1fbbb908af6fd6037940c66ac43ed1dbb6e596840d1"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/ray_of_frost.json"
+hash = "a3e5bebbda1776549e3abf8fdd98d9b35323c24cc6dfb87339304a97336757d9"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/ray_of_siphoning.json"
+hash = "5e15950ef1bc4db98b5afcd7d07e28f69b56358dad6ae3d1ce634df188329967"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/root.json"
+hash = "cd813f6acb0adbaa75d8f56c13934f918a69eedc084c9a11a79742fc05c82305"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/scorch.json"
+hash = "277f01a8bbfb7d7658378a1ef7148f202f5521b63241fcd15050f5d4d287b65b"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/shadow_slash.json"
+hash = "52a7c91b5efa49ae5c671bbb109175add2cc7c904ab00c498aed5381f258e915"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/shockwave.json"
+hash = "240ca5a352db0ca708256eddd6f935452910ca9fbff3b3f87089da1cb2850e32"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/snowball.json"
+hash = "89ef9913d0f99e5b6b0d42eb4f1135b33745bb489eea7a58d9d036ca68ec59f8"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/soulfire_ray.json"
+hash = "bb3c0d8e36aa2859b60845fb2e25d681b1dc7b75f13896421de66218757839b7"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/starfall.json"
+hash = "cac66e60957c83734822c966c575f559124305b5d6751d6357e4979a135f12d1"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/stomp.json"
+hash = "6188fb9960423554dd495c5e126f65412c0f7b2f7f780a29b2029a5b64cd5efa"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/sunbeam.json"
+hash = "29ad0b44b9e10bd76a873d69dd22330d5f6f53aa2f47143d09814dc37cd2e3d9"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/thunderstorm.json"
+hash = "a39ab8b628c7068c7d2faf2df32d8ede23905a07d85f5caad900dfae393dc005"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/wall_of_fire.json"
+hash = "f82748d6c2be613e661ef121c924e3de35956208dd22d4a059f43b6df75ac538"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/wisp.json"
+hash = "ad308197be6fd318c632a44840c20049f08594c7c2e132f4bba8ef38f807710a"
+
+[[files]]
+file = "config/irons_spellbooks_spell_config/irons_spellbooks/wither_skull.json"
+hash = "edb518aa8bf647f31ed1bd5a301d1fbe3024d95c26a6c809baa57ed925a3c136"
+
+[[files]]
 file = "config/irons_spellbooks_tweaks-server.toml"
 hash = "9ff807a2839950d0769f2c33ca5e427723db287a5ece7d021c99d8c6c853dd4a"
+
+[[files]]
+file = "config/l2_configs/l2hostility-common.toml"
+hash = "5669a0e6dca646fa8574ef2ae01e360acf4b354073fb85eae841533039a08be2"
+
+[[files]]
+file = "config/legendary_monsters-common.toml"
+hash = "5450c934acc4de39a5ca59da77e9c1987276ab764123bc3497ace1d18d96ea03"
 
 [[files]]
 file = "mods/alexs-mobs-delight.pw.toml"
@@ -85,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "dc45e2a3431d818f9bb2b7217a62e62ec8f455ca37b9f4f35947d2c442bad42b"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
 metafile = true
 
 [[files]]
@@ -158,6 +479,11 @@ hash = "8f2270a50a633db681826cbfb691e6efdb25e1e0c4702125c13d525b52fe229f"
 metafile = true
 
 [[files]]
+file = "mods/eeeabs-mobs.pw.toml"
+hash = "47a8420045f261f7b8364b0ad8473b7fb37c07b5d1b0248cb3442034a8ba7f0d"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
@@ -173,6 +499,11 @@ hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
 metafile = true
 
 [[files]]
+file = "mods/fdlib.pw.toml"
+hash = "d9085cd7cbf2812c660aeb292b50a34453a798de0c4e9494a864f28b6cc0b609"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
@@ -180,6 +511,16 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "efa75ee4aae90dea11316b6e61aecaf9433eeb3d0821f78b4eca41acbbd73e8f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "7b2cc450f553b82439ae9422b8c2b4406dae1af3c48f7ce791a3576acff1d122"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
 metafile = true
 
 [[files]]
@@ -200,6 +541,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "88396b3f04853c2cab8b7932757a3020aa8b1d266e7ee69a2b208908d3a44ada"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "b08bfae4586594efa0e1489220cd73e23665fd0198ac31f981bf55f9deb71ed3"
 metafile = true
 
 [[files]]
@@ -242,8 +588,18 @@ hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "c1f97c0f326711cadc34848ee8bcbe98cc0abfb397d7356e9f82fc35835a65ef"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
@@ -252,8 +608,23 @@ hash = "364843204d7ceb44e27d4c7873a09e102788f48725b483b67c520dcac465c186"
 metafile = true
 
 [[files]]
+file = "mods/l2-complements.pw.toml"
+hash = "18204ad3cc73409e714844e423d1228a7468eff8b39e50b886631077ed9b6a9a"
+metafile = true
+
+[[files]]
+file = "mods/l2hostility.pw.toml"
+hash = "5b7b640b8270e63eac7b5003bc2653f93075deaaa01e41b2810d3158eb512fc4"
+metafile = true
+
+[[files]]
 file = "mods/l2library.pw.toml"
 hash = "d41cc823d05623576125dcd40325a6b433bb99ced0d9452dde962e67ed33bb27"
+metafile = true
+
+[[files]]
+file = "mods/legendary-monsters.pw.toml"
+hash = "3eaee703183bf6a2263653233ca9ffe7f4de5a117583214ff99bea8c45f1f787"
 metafile = true
 
 [[files]]
@@ -269,6 +640,11 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "300eb043e53e956e58c9ff56d261d2473b473a387eef3dcfec44324c8d330a39"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "e8b4876d403b4f4daab64bad9704a5b271a33031d1ff8d19d23ebd1e3b8dd39a"
 metafile = true
 
 [[files]]
@@ -326,6 +702,11 @@ hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
 metafile = true
 
 [[files]]
+file = "mods/per-world-game-rules.pw.toml"
+hash = "09e5802e99bdd23bf652fac0a44bbc850f3edb54f51794669b3a238755782d6e"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
@@ -341,6 +722,11 @@ hash = "fc6fbe4edaef15637092d30600743dec1bc9bf6055f71a5ff026df108fa2b532"
 metafile = true
 
 [[files]]
+file = "mods/qliphoth-awakening.pw.toml"
+hash = "e9e729199e696e2d1bb6ecb92de27366d8d3956f8a05892f11b3e21d0862faf6"
+metafile = true
+
+[[files]]
 file = "mods/radiant-gear.pw.toml"
 hash = "b613f3c2e55bdf5562585e98b03b1513ae26a003b32a19cd2fce076e293d7652"
 metafile = true
@@ -348,6 +734,16 @@ metafile = true
 [[files]]
 file = "mods/radium-reforged.pw.toml"
 hash = "77fa86d36ada0d178545853f987f9e71128e1833c9c29ae62c436c09bdb31948"
+metafile = true
+
+[[files]]
+file = "mods/rendi.pw.toml"
+hash = "2baa55c9730bc5aa9cb776e5f9dd3a756f61b1edd62e3159f9e2492c9be83436"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "f9be8361c39f91dce80420324ac45290a990e8178b83df6bdaa8d69f2c7aa8d4"
 metafile = true
 
 [[files]]
@@ -411,6 +807,11 @@ hash = "8e30477baba55d418718ec4e603a6f7e928992a278c853d1a7be579f7e380e2c"
 metafile = true
 
 [[files]]
+file = "mods/weapon-master.pw.toml"
+hash = "02ec135bab6115a3adf8dfbc0d5a1c0cf4f624a8f59fcef825154f5324ac9e5f"
+metafile = true
+
+[[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
 metafile = true
@@ -426,13 +827,29 @@ hash = "95b2e130e3ef2f733ddca1985c7553126792486536b93dba7388082e544f5778"
 metafile = true
 
 [[files]]
+file = "resourcepacks/WeaponMasterJP_EX.zip"
+hash = "64d2959c96822975547fefd3b210b6f9615823dd7fa9b52206b3344237d564c8"
+
+[[files]]
 file = "resourcepacks/avpbr-retextured.pw.toml"
 hash = "99e031bfbab164d2069fc101cfb20acf52892cd26560c5975e515258101a6c30"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fdbosses日本語化.zip"
+hash = "907743638d4cf39f8887abbc9f63031cef7579ce4a7b22aed914e1629707b495"
+
+[[files]]
 file = "resourcepacks/l2artifacts-3.0.5_mine-tech_20260405.zip"
 hash = "91d78428adc0c835ea0f247f9ca76a16e90ccec0d985133631376414457c67c9"
+
+[[files]]
+file = "resourcepacks/l2complements-3.1.2_Japanese_Language_Pack_mine-tech_20260408.zip"
+hash = "0f12961d41003ef070e3b55c21ac0b65dd020452cb287ac654dfddd8fc4be10d"
+
+[[files]]
+file = "resourcepacks/l2hostility-3.0.9_Japanese_Language_Pack_mine-tech_20260407.zip"
+hash = "15cca747a3cddb5d7384538a7f01f4a85020a05edc1e4d1d03bad28246896f06"
 
 [[files]]
 file = "shaderpacks/BSL.zip"

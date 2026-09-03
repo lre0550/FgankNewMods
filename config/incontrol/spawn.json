@@ -1,0 +1,69 @@
+[
+  {
+    "when": "finalize",
+    "dimension": [
+      "endgame:overworld",
+      "endgame:the_nether",
+      "endgame:the_end"
+    ],
+    "mod": "block_factorys_bosses",
+    "healthmultiply": 15.0,
+    "result": "default"
+  },
+  {
+    "when": "finalize",
+    "dimension": [
+      "endgame:overworld",
+      "endgame:the_nether",
+      "endgame:the_end"
+    ],
+    "mob": [
+      "legendary_monsters:cloud_golem",
+      "legendary_monsters:posessed_paladin",
+      "legendary_monsters:the_obliterator",
+      "legendary_monsters:ancient_guardian",
+      "irons_spellbooks:fire_boss"
+    ],
+    "healthmultiply": 1.0,
+    "result": "default"
+  },
+  {
+    "when": "finalize",
+    "dimension": [
+      "endgame:overworld",
+      "endgame:the_nether",
+      "endgame:the_end"
+    ],
+    "mod": "legendary_monsters",
+    "healthmultiply": 4.0,
+    "result": "default"
+  },
+  {
+    "when": "finalize",
+    "dimension": [
+      "endgame:overworld",
+      "endgame:the_nether",
+      "endgame:the_end"
+    ],
+    "mob": [
+      "cataclysm:netherite_monstrosity",
+      "cataclysm:ender_guardian",
+      "cataclysm:the_harbinger",
+      "cataclysm:ancient_remnant",
+      "cataclysm:the_leviathan",
+      "cataclysm:scylla",
+      "cataclysm:maledictus",
+      "cataclysm:ignis",
+      "cataclysm:ender_golem",
+      "cataclysm:amethyst_crab",
+      "cataclysm:coralssus",
+      "eeeabsmobs:realmwarden",
+      "irons_spellbooks:dead_king",
+      "irons_spellbooks:archevoker",
+      "eeeabsmobs:realm_warden"
+      
+    ],
+    "healthmultiply": 17.2,
+    "result": "default"
+  }
+]

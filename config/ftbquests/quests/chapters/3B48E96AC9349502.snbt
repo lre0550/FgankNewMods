@@ -1,0 +1,136 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3B48E96AC9349502"
+	group: ""
+	id: "3B48E96AC9349502"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "79DBB20C01562AA6"
+			rewards: [{
+				count: 10
+				id: "00B18A46E147DF9C"
+				item: "minecraft:light_blue_shulker_box"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "endgame:quests/tier1/ender_golem"
+				criterion: ""
+				id: "34DC7EC147C4E6C8"
+				optional_task: true
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			id: "46E56E3030C442CF"
+			rewards: [{
+				count: 10
+				id: "7C111CAFA19D15C6"
+				item: "minecraft:white_shulker_box"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "endgame:quests/tier1/ancient_remnant"
+				criterion: ""
+				id: "5DCBD35FB39D09E4"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			id: "2EAF71D12C785647"
+			rewards: [{
+				count: 10
+				id: "67395D70EC6CA430"
+				item: "minecraft:black_shulker_box"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "endgame:quests/tier1/ender_guardian"
+				criterion: ""
+				id: "09D8489808A8AC8A"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			id: "4150F812A7102B8C"
+			rewards: [{
+				count: 10
+				id: "4F22886E2AD123C5"
+				item: "minecraft:red_shulker_box"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "endgame:quests/tier1/maledictus"
+				criterion: ""
+				id: "774801DD4A32B7A2"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			id: "7BFAFFEC3CBEF9DE"
+			tasks: [{
+				advancement: "endgame:quests/tier1/netherite_monstrosity"
+				criterion: ""
+				id: "7049467959070197"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			id: "364DD4B16487EDD6"
+			tasks: [{
+				advancement: "endgame:quests/tier1/scylla"
+				criterion: ""
+				id: "72DE2F911B73D9B8"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			id: "55E36DCE50F3AE04"
+			tasks: [{
+				advancement: "endgame:quests/tier1/the_harbinger"
+				criterion: ""
+				id: "25BC170814A9D887"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			id: "0E679A0DED837E62"
+			tasks: [{
+				advancement: "endgame:quests/tier1/ignis"
+				criterion: ""
+				id: "62F0541AB7B1485E"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			id: "1C66B6359772D2B5"
+			tasks: [{
+				advancement: "endgame:quests/tier1/the_leviathan"
+				criterion: ""
+				id: "2A80C9C88BF80416"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+	]
+	title: "第一等級"
+}

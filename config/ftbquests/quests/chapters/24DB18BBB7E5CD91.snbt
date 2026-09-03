@@ -1,0 +1,67 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "24DB18BBB7E5CD91"
+	group: ""
+	id: "24DB18BBB7E5CD91"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3FC5D28F22B3E131"
+			tasks: [{
+				advancement: "endgame:quests/tier3/infernal_dragon"
+				criterion: ""
+				id: "23A60141062E2938"
+				type: "advancement"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			id: "7044291978C06250"
+			tasks: [{
+				advancement: "endgame:quests/tier3/kraken"
+				criterion: ""
+				id: "0C58DAE274056FB3"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			id: "6838A751D022FE17"
+			tasks: [{
+				advancement: "endgame:quests/tier3/sandworm"
+				criterion: ""
+				id: "66A7FAC6C57CF464"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			id: "2D864C6D9FEF50A7"
+			tasks: [{
+				advancement: "endgame:quests/tier3/underworld_knight"
+				criterion: ""
+				id: "749B60B62D062BFD"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "4AB2FF118D83F4A1"
+			tasks: [{
+				advancement: "endgame:quests/tier3/yeti"
+				criterion: ""
+				id: "6F328F85D05A4621"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+	]
+	title: "第三等級"
+}
