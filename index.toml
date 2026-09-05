@@ -810,6 +810,16 @@ hash = "8e30477baba55d418718ec4e603a6f7e928992a278c853d1a7be579f7e380e2c"
 metafile = true
 
 [[files]]
+file = "mods/waterframes.pw.toml"
+hash = "67d3ea0f6c097f6c25d9c677671a806056d0f4af930d230b9f959495a06ac432"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "2057c4d3699348a75e8ad5127cbabf8a1c01cae1f5bc32918812075996ba4d13"
+metafile = true
+
+[[files]]
 file = "mods/weapon-master.pw.toml"
 hash = "02ec135bab6115a3adf8dfbc0d5a1c0cf4f624a8f59fcef825154f5324ac9e5f"
 metafile = true
