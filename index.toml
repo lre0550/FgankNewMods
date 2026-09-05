@@ -547,11 +547,6 @@ hash = "88396b3f04853c2cab8b7932757a3020aa8b1d266e7ee69a2b208908d3a44ada"
 metafile = true
 
 [[files]]
-file = "mods/immersive-melodies.pw.toml"
-hash = "db2eb84013dda063078898d1f87b88f63a909bb7c4cf9a52ec2ebc25ffd841d1"
-metafile = true
-
-[[files]]
 file = "mods/in-control.pw.toml"
 hash = "b08bfae4586594efa0e1489220cd73e23665fd0198ac31f981bf55f9deb71ed3"
 metafile = true
@@ -812,31 +807,6 @@ metafile = true
 [[files]]
 file = "mods/u-team-core.pw.toml"
 hash = "8e30477baba55d418718ec4e603a6f7e928992a278c853d1a7be579f7e380e2c"
-metafile = true
-
-[[files]]
-file = "mods/waterframes.pw.toml"
-hash = "67d3ea0f6c097f6c25d9c677671a806056d0f4af930d230b9f959495a06ac432"
-metafile = true
-
-[[files]]
-file = "mods/watermedia-binaries.pw.toml"
-hash = "eda09800360552b00dc6e9b2e096e9143a191fdaa7e511b92b33c25ce81c7dab"
-metafile = true
-
-[[files]]
-file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "c6400cbca1fe48cfcdf3bb0b643b5be549247a3bc7468cf0db6707ecce9510f6"
-metafile = true
-
-[[files]]
-file = "mods/watermedia.pw.toml"
-hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
-metafile = true
-
-[[files]]
-file = "mods/watervision.pw.toml"
-hash = "1e9bcc140af33caf45c8c2e42eb1917e9884b0f26bc99179b6102c5071b1aa87"
 metafile = true
 
 [[files]]
