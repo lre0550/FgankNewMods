@@ -341,12 +341,20 @@ file = "config/irons_spellbooks_tweaks-server.toml"
 hash = "9ff807a2839950d0769f2c33ca5e427723db287a5ece7d021c99d8c6c853dd4a"
 
 [[files]]
+file = "config/jade/jade.json"
+hash = "d1b10f9428e1d4a5720219eb09a278c28562d7871d991b309d775299b44918c5"
+
+[[files]]
 file = "config/l2_configs/l2hostility-common.toml"
 hash = "5669a0e6dca646fa8574ef2ae01e360acf4b354073fb85eae841533039a08be2"
 
 [[files]]
 file = "config/legendary_monsters-common.toml"
 hash = "5450c934acc4de39a5ca59da77e9c1987276ab764123bc3497ace1d18d96ea03"
+
+[[files]]
+file = "config/pdgamerules-common.yaml"
+hash = "84d286e5b4d3758cc666db888f33c5fa4c88fa8a22cd246bc0697d0fd440bc6b"
 
 [[files]]
 file = "mods/alexs-mobs-delight.pw.toml"
