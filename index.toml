@@ -661,6 +661,10 @@ hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
 metafile = true
 
 [[files]]
+file = "mods/mcef-forge-2.1.6-1.20.1.jar"
+hash = "5c462342264ac89597891d5d4bcdf6b8134ce4cc5dd97894dbd87ecc197f0cb3"
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "230b5d280d6d121701c8f275ae47dca348e806738d03767aa8e450e7267ef908"
 metafile = true
@@ -818,6 +822,10 @@ metafile = true
 file = "mods/weapon-master.pw.toml"
 hash = "02ec135bab6115a3adf8dfbc0d5a1c0cf4f624a8f59fcef825154f5324ac9e5f"
 metafile = true
+
+[[files]]
+file = "mods/webdisplays-2.0.2-1.20.1.jar"
+hash = "017626c9c08bc6fa620c33643bd6ce9a1368f741b3af36d62fc299d5e38535af"
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
